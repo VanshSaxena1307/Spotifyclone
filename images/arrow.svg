@@ -1,0 +1,5 @@
+<!-- Replace contents of arrow.svg with this -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="12" fill="green"/>
+  <polygon points="10,8 10,16 16,12" fill="black"/>
+</svg>
